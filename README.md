@@ -4,7 +4,6 @@ PiVision is my final-year university project, developed as a Raspberry Pi–base
 
 Youtube Link: https://youtu.be/hYp-p3QQm7k?si=oFkPQ05lBc_fyWUW
 
-Aim
 The aim of this project is to design, build and evaluate a low-cost, self-hosted home security system that gives the user full ownership of their data, accessible remotely through a cross-platform mobile application.
 
 Objectives
