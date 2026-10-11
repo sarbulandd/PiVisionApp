@@ -2,6 +2,8 @@
 
 PiVision is my final-year university project, developed as a Raspberry Pi–based intelligent intruder detection system for home security. The system uses a PIR motion sensor and Raspberry Pi Camera Module to detect motion, identify individuals in real time using computer vision, and capture images and videos of security events. It also provides a live video stream through a mobile application and automatically notifies the user with the identity of the detected person whenever motion is triggered. Developed using Python, Flask, OpenCV, React Native, and Raspberry Pi hardware, PiVision offers a cost-effective, local-first security solution that combines real-time monitoring with intelligent person recognition.
 
+Tool used: Python, Flask, face_recognition (dlib), OpenCV, FFmpeg, React Native (Expo), TypeScript, Firebase, Azure Blob Storage, Raspberry Pi 5
+
 Youtube Link: https://youtu.be/hYp-p3QQm7k?si=oFkPQ05lBc_fyWUW
 
 The aim of this project is to design, build and evaluate a low-cost, self-hosted home security system that gives the user full ownership of their data, accessible remotely through a cross-platform mobile application.
